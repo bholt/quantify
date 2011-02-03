@@ -1,0 +1,75 @@
+// !$*UTF8*$!
+{
+	172754BD107597F200D0347B /* Unit Tests */ = {
+		activeExec = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = D133B02712FA6E11001B835D /* QuantifyX */;
+		activeTarget = 8D1107260486CEB800E47090 /* QuantifyX */;
+		codeSenseManager = D133B03312FA6E20001B835D /* Code sense */;
+		executables = (
+			D133B02712FA6E11001B835D /* QuantifyX */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 318402065;
+			PBXWorkspaceStateSaveDate = 318402065;
+		};
+		sourceControlManager = D133B03212FA6E20001B835D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4D1A51A110A4FF5D0046A98A /* Compile */ = {
+		activeExec = 0;
+	};
+	4D1A51A510A4FF640046A98A /* Embed */ = {
+		activeExec = 0;
+	};
+	8D1107260486CEB800E47090 /* QuantifyX */ = {
+		activeExec = 0;
+		executables = (
+			D133B02712FA6E11001B835D /* QuantifyX */,
+		);
+	};
+	D133B02712FA6E11001B835D /* QuantifyX */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = QuantifyX;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	D133B03212FA6E20001B835D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	D133B03312FA6E20001B835D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
