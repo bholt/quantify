@@ -6,14 +6,18 @@
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeBuildConfigurationName = Debug;
 		activeExecutable = D133B02712FA6E11001B835D /* QuantifyX */;
+		activeSDKPreference = macosx10.6;
 		activeTarget = 8D1107260486CEB800E47090 /* QuantifyX */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* QuantifyX */,
+		);
 		codeSenseManager = D133B03312FA6E20001B835D /* Code sense */;
 		executables = (
 			D133B02712FA6E11001B835D /* QuantifyX */,
 		);
 		perUserDictionary = {
-			PBXPerProjectTemplateStateSaveDate = 318402065;
-			PBXWorkspaceStateSaveDate = 318402065;
+			PBXPerProjectTemplateStateSaveDate = 320344601;
+			PBXWorkspaceStateSaveDate = 320344601;
 		};
 		sourceControlManager = D133B03212FA6E20001B835D /* Source Control */;
 		userBuildSettings = {
@@ -47,6 +51,7 @@
 		dataTipSortType = 0;
 		debuggerPlugin = GDBDebugging;
 		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
 		enableDebugStr = 1;
 		environmentEntries = (
 		);
@@ -54,6 +59,8 @@
 		executableUserSymbolLevel = 0;
 		libgmallocEnabled = 0;
 		name = QuantifyX;
+		savedGlobals = {
+		};
 		showTypeColumn = 0;
 		sourceDirectories = (
 		);
@@ -71,5 +78,13 @@
 	D133B03312FA6E20001B835D /* Code sense */ = {
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
+	};
+	D1CA084E12FBA18B0048B5EE /* DiffController.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {582, 1118}}";
+			sepNavSelRange = "{1446, 0}";
+			sepNavVisRange = "{0, 993}";
+			sepNavWindowFrame = "{{229, 45}, {641, 833}}";
+		};
 	};
 }

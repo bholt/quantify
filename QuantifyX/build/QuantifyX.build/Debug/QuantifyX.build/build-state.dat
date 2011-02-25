@@ -1,0 +1,283 @@
+TQuantifyX
+v7
+r0
+t320350511.280028
+cCheck dependencies
+cProcessInfoPlistFile /Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/Info.plist Info.plist
+cCopyStringsFile /Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCpResource build/Debug/QuantifyX.app/Contents/Resources/rb_main.rb rb_main.rb
+cCompileXIB /Users/brandonholt/Develop/quantify/QuantifyX/English.lproj/MainMenu.xib
+cCpResource build/Debug/QuantifyX.app/Contents/Resources/DiffController.rb DiffController.rb
+cCpResource build/Debug/QuantifyX.app/Contents/Resources/English.lproj/blue.png English.lproj/blue.png
+cCpResource build/Debug/QuantifyX.app/Contents/Resources/English.lproj/green.png English.lproj/green.png
+cCpResource build/Debug/QuantifyX.app/Contents/Resources/English.lproj/purple.png English.lproj/purple.png
+cCpResource build/Debug/QuantifyX.app/Contents/Resources/English.lproj/red.png English.lproj/red.png
+cCompileC build/QuantifyX.build/Debug/QuantifyX.build/Objects-normal/x86_64/main.o /Users/brandonholt/Develop/quantify/QuantifyX/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/MacOS/QuantifyX normal x86_64
+cTouch /Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004A49A9E400000000000000EE
+t1246341604
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/Library/Frameworks/MacRuby.framework/Headers/MacRuby.h
+c000000004D069C6E000000000000005F
+t1292278894
+s95
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/MacRuby.framework/Headers/MacRuby.h
+c000000004D069C6E000000000000005F
+t1292278894
+s95
+
+N/Library/Frameworks/MacRuby.framework/MacRuby
+c000000004D06A04200000000014E17D0
+t1292279874
+s21895120
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/brandonholt/Develop/quantify/QuantifyX/DiffController.rb
+c000000004D67F1AC0000000000000E49
+t1298657708
+s3657
+
+N/Users/brandonholt/Develop/quantify/QuantifyX/English.lproj/InfoPlist.strings
+c000000004D4A369100000000000000F0
+t1296709265
+s240
+
+N/Users/brandonholt/Develop/quantify/QuantifyX/English.lproj/MainMenu.xib
+c000000004D65B1B300000000000245EC
+t1298510259
+s148972
+
+N/Users/brandonholt/Develop/quantify/QuantifyX/English.lproj/blue.png
+c000000004D6599160000000000000751
+t1298503958
+s1873
+
+N/Users/brandonholt/Develop/quantify/QuantifyX/English.lproj/green.png
+c000000004D67DCE400000000000007C1
+t1298652388
+s1985
+
+N/Users/brandonholt/Develop/quantify/QuantifyX/English.lproj/purple.png
+c000000004D67DD1D000000000000076D
+t1298652445
+s1901
+
+N/Users/brandonholt/Develop/quantify/QuantifyX/English.lproj/red.png
+c000000004D67DC43000000000000079C
+t1298652227
+s1948
+
+N/Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app
+t1298657711
+s102
+
+N/Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/Info.plist
+t1296789429
+s775
+
+N/Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/MacOS/QuantifyX
+t1296789438
+s9000
+
+N/Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/PkgInfo
+t1296789429
+s8
+
+N/Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/Resources/DiffController.rb
+t1298657711
+s3657
+
+N/Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1296789430
+s240
+
+N/Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/Resources/English.lproj/MainMenu.nib
+t1298652112
+s29282
+
+N/Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/Resources/English.lproj/blue.png
+t1298504334
+s1873
+
+N/Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/Resources/English.lproj/green.png
+t1298654243
+s1985
+
+N/Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/Resources/English.lproj/purple.png
+t1298654243
+s1901
+
+N/Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/Resources/English.lproj/red.png
+t1298654243
+s1948
+
+N/Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/Resources/diff_controller.rb
+t2
+s0
+
+N/Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/Resources/rb_main.rb
+t1296789430
+s637
+
+N/Users/brandonholt/Develop/quantify/QuantifyX/build/QuantifyX.build/Debug/QuantifyX.build/Objects-normal/x86_64/QuantifyX.LinkFileList
+c000000004D4B6FB50000000000000077
+t1296789429
+s119
+
+N/Users/brandonholt/Develop/quantify/QuantifyX/build/QuantifyX.build/Debug/QuantifyX.build/Objects-normal/x86_64/main.o
+t1296789437
+s5364
+
+N/Users/brandonholt/Develop/quantify/QuantifyX/diff_controller.rb
+c000000004D4B6A0B00000000000000BB
+t1296787979
+s187
+
+N/Users/brandonholt/Develop/quantify/QuantifyX/main.m
+c000000004D4A3691000000000000010D
+t1296709265
+s269
+i<MacRuby/MacRuby.h>
+
+N/Users/brandonholt/Develop/quantify/QuantifyX/rb_main.rb
+c000000004D4A3691000000000000027D
+t1296709265
+s637
+
+NInfo.plist
+c000000004D4A36910000000000000346
+t1296709265
+s838
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320350511#320350511#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/QuantifyX.build/Debug/QuantifyX.build/Objects-normal/x86_64/main.o /Users/brandonholt/Develop/quantify/QuantifyX/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318482231.813173
+e318482237.755278
+r1
+xCompileC
+xbuild/QuantifyX.build/Debug/QuantifyX.build/Objects-normal/x86_64/main.o
+x/Users/brandonholt/Develop/quantify/QuantifyX/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/brandonholt/Develop/quantify/QuantifyX/main.m318482231#318482237#0(0"0(0#0#52"/Users/brandonholt/Develop/quantify/QuantifyX/main.m4300882208#1054"    cd /Users/brandonholt/Develop/quantify/QuantifyX    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/brandonholt/Develop/quantify/QuantifyX/build/QuantifyX.build/Debug/QuantifyX.build/QuantifyX.hmap -F/Users/brandonholt/Develop/quantify/QuantifyX/build/Debug -F/Users/brandonholt/Develop/quantify/QuantifyX/build/Debug -I/Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/include -I/Users/brandonholt/Develop/quantify/QuantifyX/build/QuantifyX.build/Debug/QuantifyX.build/DerivedSources/x86_64 -I/Users/brandonholt/Develop/quantify/QuantifyX/build/QuantifyX.build/Debug/QuantifyX.build/DerivedSources -c /Users/brandonholt/Develop/quantify/QuantifyX/main.m -o /Users/brandonholt/Develop/quantify/QuantifyX/build/QuantifyX.build/Debug/QuantifyX.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/brandonholt/Develop/quantify/QuantifyX/English.lproj/MainMenu.xib
+s320344911.901518
+e320344912.422048
+r1
+xCompileXIB
+x/Users/brandonholt/Develop/quantify/QuantifyX/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib320344911#320344912#0(0"0(0#0#72"/Users/brandonholt/Develop/quantify/QuantifyX/English.lproj/MainMenu.xib31244169098690672#350"    cd /Users/brandonholt/Develop/quantify/QuantifyX    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/Resources/English.lproj/MainMenu.nib /Users/brandonholt/Develop/quantify/QuantifyX/English.lproj/MainMenu.xib0#
+
+CCopyStringsFile /Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s318482229.807797
+e318482230.919006
+r1
+xCopyStringsFile
+x/Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings318482229#318482230#0(0"0(0#0#77"/Users/brandonholt/Develop/quantify/QuantifyX/English.lproj/InfoPlist.strings4300882208#382"    cd /Users/brandonholt/Develop/quantify/QuantifyX    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/QuantifyX.app/Contents/Resources/DiffController.rb DiffController.rb
+s320350511.259621
+e320350511.276051
+r1
+xCpResource
+xbuild/Debug/QuantifyX.app/Contents/Resources/DiffController.rb
+xDiffController.rb
+lSLF07#2@22"Copy DiffController.rb320350511#320350511#0(0"0(0#0#63"/Users/brandonholt/Develop/quantify/QuantifyX/DiffController.rb4300882208#356"    cd /Users/brandonholt/Develop/quantify/QuantifyX    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/brandonholt/Develop/quantify/QuantifyX/DiffController.rb /Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/Resources0#
+
+CCpResource build/Debug/QuantifyX.app/Contents/Resources/English.lproj/blue.png English.lproj/blue.png
+s320197134.623347
+e320197134.632502
+r1
+xCpResource
+xbuild/Debug/QuantifyX.app/Contents/Resources/English.lproj/blue.png
+xEnglish.lproj/blue.png
+lSLF07#2@27"Copy English.lproj/blue.png320197134#320197134#0(0"0(0#0#68"/Users/brandonholt/Develop/quantify/QuantifyX/English.lproj/blue.png4300882208#375"    cd /Users/brandonholt/Develop/quantify/QuantifyX    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/brandonholt/Develop/quantify/QuantifyX/English.lproj/blue.png /Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/QuantifyX.app/Contents/Resources/English.lproj/green.png English.lproj/green.png
+s320347042.999675
+e320347043.008312
+r1
+xCpResource
+xbuild/Debug/QuantifyX.app/Contents/Resources/English.lproj/green.png
+xEnglish.lproj/green.png
+lSLF07#2@28"Copy English.lproj/green.png320347043#320347043#0(0"0(0#0#69"/Users/brandonholt/Develop/quantify/QuantifyX/English.lproj/green.png4300882208#376"    cd /Users/brandonholt/Develop/quantify/QuantifyX    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/brandonholt/Develop/quantify/QuantifyX/English.lproj/green.png /Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/QuantifyX.app/Contents/Resources/English.lproj/purple.png English.lproj/purple.png
+s320347043.000488
+e320347043.008457
+r1
+xCpResource
+xbuild/Debug/QuantifyX.app/Contents/Resources/English.lproj/purple.png
+xEnglish.lproj/purple.png
+lSLF07#2@29"Copy English.lproj/purple.png320347043#320347043#0(0"0(0#0#70"/Users/brandonholt/Develop/quantify/QuantifyX/English.lproj/purple.png4300882208#377"    cd /Users/brandonholt/Develop/quantify/QuantifyX    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/brandonholt/Develop/quantify/QuantifyX/English.lproj/purple.png /Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/QuantifyX.app/Contents/Resources/English.lproj/red.png English.lproj/red.png
+s320347043.001080
+e320347043.013048
+r1
+xCpResource
+xbuild/Debug/QuantifyX.app/Contents/Resources/English.lproj/red.png
+xEnglish.lproj/red.png
+lSLF07#2@26"Copy English.lproj/red.png320347043#320347043#0(0"0(0#0#67"/Users/brandonholt/Develop/quantify/QuantifyX/English.lproj/red.png4300882208#374"    cd /Users/brandonholt/Develop/quantify/QuantifyX    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/brandonholt/Develop/quantify/QuantifyX/English.lproj/red.png /Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/QuantifyX.app/Contents/Resources/diff_controller.rb diff_controller.rb
+r0
+
+CCpResource build/Debug/QuantifyX.app/Contents/Resources/rb_main.rb rb_main.rb
+s318482229.833637
+e318482230.235254
+r1
+xCpResource
+xbuild/Debug/QuantifyX.app/Contents/Resources/rb_main.rb
+xrb_main.rb
+lSLF07#2@15"Copy rb_main.rb318482229#318482230#0(0"0(0#0#56"/Users/brandonholt/Develop/quantify/QuantifyX/rb_main.rb4300882208#349"    cd /Users/brandonholt/Develop/quantify/QuantifyX    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/brandonholt/Develop/quantify/QuantifyX/rb_main.rb /Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/Resources0#
+
+CLd /Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/MacOS/QuantifyX normal x86_64
+s318482237.755506
+e318482238.796093
+r1
+xLd
+x/Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/MacOS/QuantifyX
+xnormal
+xx86_64
+lSLF07#2@101"Link /Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/MacOS/QuantifyX318482237#318482238#0(0"0(0#0#0"4300882208#666"    cd /Users/brandonholt/Develop/quantify/QuantifyX    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/brandonholt/Develop/quantify/QuantifyX/build/Debug -F/Users/brandonholt/Develop/quantify/QuantifyX/build/Debug -F/Users/brandonholt/Develop/quantify/QuantifyX/build/Debug -filelist /Users/brandonholt/Develop/quantify/QuantifyX/build/QuantifyX.build/Debug/QuantifyX.build/Objects-normal/x86_64/QuantifyX.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework MacRuby -o /Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/MacOS/QuantifyX0#
+
+CProcessInfoPlistFile /Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/Info.plist Info.plist
+s318482229.428586
+e318482229.807678
+r1
+xProcessInfoPlistFile
+x/Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist318482229#318482229#0(0"0(0#0#56"/Users/brandonholt/Develop/quantify/QuantifyX/Info.plist28147961534414964#327"    cd /Users/brandonholt/Develop/quantify/QuantifyX    builtin-infoPlistUtility Info.plist -genpkginfo /Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app/Contents/Info.plist0#
+
+CTouch /Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app
+s320350511.276304
+e320350511.279981
+r1
+xTouch
+x/Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app
+lSLF07#2@77"Touch /Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app320350511#320350511#0(0"0(0#0#0"4300882208#147"    cd /Users/brandonholt/Develop/quantify/QuantifyX    /usr/bin/touch -c /Users/brandonholt/Develop/quantify/QuantifyX/build/Debug/QuantifyX.app0#
+

@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>tkgui.py</string>
+	<string>diff.py</string>
 	<key>documents</key>
 	<array>
 		<dict>
 			<key>filename</key>
 			<string>diff.py</string>
 			<key>lastUsed</key>
-			<date>2011-02-02T21:53:04Z</date>
+			<date>2011-02-08T18:49:35Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -30,7 +30,7 @@
 			<key>filename</key>
 			<string>tkgui.py</string>
 			<key>lastUsed</key>
-			<date>2011-02-03T02:43:18Z</date>
+			<date>2011-02-04T03:26:53Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -48,14 +48,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>20</integer>
+				<integer>10</integer>
 				<key>line</key>
-				<integer>11</integer>
+				<integer>26</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>6</integer>
+			<integer>0</integer>
 		</dict>
 		<key>tkgui.py</key>
 		<dict>
@@ -99,6 +99,6 @@
 	<key>treeState</key>
 	<dict/>
 	<key>windowFrame</key>
-	<string>{{1057, 46}, {845, 1012}}</string>
+	<string>{{9, 4}, {845, 874}}</string>
 </dict>
 </plist>
