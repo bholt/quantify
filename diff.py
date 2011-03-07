@@ -51,7 +51,7 @@ def compareFiles(f1, f2, compares = [lambda a,b: b-a]):
 	averages = [t/count for t in total]
 	print('---------\naverages:')
 	print(*averages, sep=' | ')
-
+ 
 
 if __name__ == "__main__":
 	main()

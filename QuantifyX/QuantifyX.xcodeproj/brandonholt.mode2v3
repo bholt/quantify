@@ -276,8 +276,8 @@
 									<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 									<array>
 										<array>
-											<integer>3</integer>
-											<integer>2</integer>
+											<integer>5</integer>
+											<integer>4</integer>
 											<integer>0</integer>
 										</array>
 									</array>
@@ -441,8 +441,8 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>D1B4ED1D1318295200B8F30F</string>
-				<string>D1B4ED1E1318295200B8F30F</string>
+				<string>D118B86E131C681300A3D8B8</string>
+				<string>D118B86F131C681300A3D8B8</string>
 				<string>1C9437FD063B20B00039CFAC</string>
 				<string>1C9437FE063B20B00039CFAC</string>
 				<string>1C9437FF063B20B00039CFAC</string>
@@ -479,11 +479,8 @@
 	<integer>0</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>D1B4ED271318295200B8F30F</string>
-		<string>D1B4ED281318295200B8F30F</string>
-		<string>1C530D54069F1CE1000CFCEE</string>
+		<string>D118B871131C681300A3D8B8</string>
 		<string>1C530D52069F1CE1000CFCEE</string>
-		<string>1C530D5B069F1CE1000CFCEE</string>
 		<string>/Users/brandonholt/Develop/quantify/QuantifyX/QuantifyX.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
@@ -701,7 +698,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1C530D52069F1CE1000CFCEE</string>
-				<string>D1B4ED1F1318295200B8F30F</string>
+				<string>D118B870131C681300A3D8B8</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>

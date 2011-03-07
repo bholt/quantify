@@ -16,8 +16,8 @@
 			D133B02712FA6E11001B835D /* QuantifyX */,
 		);
 		perUserDictionary = {
-			PBXPerProjectTemplateStateSaveDate = 320344601;
-			PBXWorkspaceStateSaveDate = 320344601;
+			PBXPerProjectTemplateStateSaveDate = 320628743;
+			PBXWorkspaceStateSaveDate = 320628743;
 		};
 		sourceControlManager = D133B03212FA6E20001B835D /* Source Control */;
 		userBuildSettings = {
@@ -28,6 +28,14 @@
 	};
 	4D1A51A510A4FF640046A98A /* Embed */ = {
 		activeExec = 0;
+	};
+	4DE339F60D74FCDD00ADB6EE /* rb_main.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {726, 838}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 637}";
+			sepNavWindowFrame = "{{15, 4}, {785, 874}}";
+		};
 	};
 	8D1107260486CEB800E47090 /* QuantifyX */ = {
 		activeExec = 0;
@@ -81,9 +89,9 @@
 	};
 	D1CA084E12FBA18B0048B5EE /* DiffController.rb */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {582, 1118}}";
+			sepNavIntBoundsRect = "{{0, 0}, {582, 2340}}";
 			sepNavSelRange = "{1446, 0}";
-			sepNavVisRange = "{0, 993}";
+			sepNavVisRange = "{0, 1310}";
 			sepNavWindowFrame = "{{229, 45}, {641, 833}}";
 		};
 	};
