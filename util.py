@@ -20,6 +20,7 @@ def scoped_format(s:str):
 
 eval_pattern = re.compile(r'(?<!\\){(.+?)(?<!\\)}')
 
+
 def eval_format(s:str):
 	local = sys._getframe(1).f_locals
 	start = 0
